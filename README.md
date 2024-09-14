@@ -1,6 +1,6 @@
 # Javier Olivares
 
-Nombre:                                  Ubicación:
+Nombre:                                      /Ubicación:
 
 Douglas Chirinos Pull Request (Alfa) 
 
