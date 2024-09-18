@@ -1,13 +1,11 @@
-# Javier Olivares
+# hg_1_bravo
 
-Nombre:                                      Ubicación:
+## Javier Olivares (Bravo)
 
-Douglas Chirinos Pull Request (Alfa) 
-
-Richard Castro Pull Request (Charlie)
-
-Yoselin Rada Pull Request (Delta)
-
-Klever Hernandez Pull Request (Echo)
-
------ Pull Request (Foxs)
++ |***Nombre:*** | ***Alias:*** | ***Ubicación:***|
++ | ------------------ | ---------------------- | ------------------|
++ |Douglas Chirinos|Alfa|Venezuela|
++ |Richard Castro|Charlie|Venezuela|
++ |Yoselin Rada|Delta|Venezuela|
++ |Klever Hernandez|Echo|Venezuela|
++ |Juan Portes|Foxs|Venezuela|
