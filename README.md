@@ -2,7 +2,7 @@
 
 ## Javier Olivares (Bravo)
 
-| *Nombre*  | *Alias* | *Ubicacion* |
+| Nombre  | Alias | Ubicacion |
 | ------------- | ------------- | ------------- |
 | Douglas Chirinos  | Alfa  | Venezuela |
 | Javier Olivares | Bravo  | Venezuela |
